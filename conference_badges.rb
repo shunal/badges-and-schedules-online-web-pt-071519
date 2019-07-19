@@ -23,7 +23,7 @@ end
 new_array
 end
 
-def printer(attendees)
-  puts batch_badge_creator
-  puts assign_rooms
+def printer
+  puts batch_badge_creator(new_array)
+  puts assign_rooms(new_array)
 end
