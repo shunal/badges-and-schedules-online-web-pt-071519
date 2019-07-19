@@ -23,7 +23,7 @@ end
 new_array
 end
 
-def printer(attendees)
-  batch_badge_creator(attendees)
+def printer(names)
+  batch_badge_creator(names)
   
 end
