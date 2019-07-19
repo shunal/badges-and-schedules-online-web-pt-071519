@@ -24,4 +24,5 @@ new_array
 end
 
 def printer(names)
+  
 end
