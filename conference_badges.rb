@@ -23,5 +23,5 @@ end
 new_array
 end
 
-def printer
+def printer(names)
 end
