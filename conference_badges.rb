@@ -24,5 +24,5 @@ new_array
 end
 
 def printer(names)
-  
+  batch_badge_creator(names)
 end
