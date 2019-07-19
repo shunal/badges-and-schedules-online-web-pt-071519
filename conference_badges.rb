@@ -31,4 +31,5 @@ def printer(names)
   end
   rooms.each do |room|
     puts room
+  end
 end
